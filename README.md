@@ -2,7 +2,7 @@
 
 <section>
 <p>
-Frontend Junior, estudante Full Stack, graduanda no curso de Análise e Desenvolvimento de Sistemas pela UNIVALI - Itajaí/SC; <br> atualmente Técnica em Patologia na área da saúde, em transição de carreira para a área de tecnologia.
+Estagiária de Suporte de TI no Havan Labs,<br> graduanda no curso de Análise e Desenvolvimento de Sistemas pela UNIVALI - Itajaí/SC; <br>
 </p>
 <div>
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
