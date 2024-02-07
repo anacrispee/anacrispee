@@ -2,7 +2,7 @@
 
 <section>
 <p>
-Mobile Developer Trainee at Havan Labs,<br> studying Analysis and Systems Development at UNIVALI - Itajaí/SC. <br>
+Mobile Developer Intern at Havan Labs,<br> studying Analysis and Systems Development at UNIVALI - Itajaí/SC. <br>
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anacrispee&layout=compact&theme=tokyonight)
