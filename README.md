@@ -1,6 +1,6 @@
 ## hello! 💙
 
-<section> <p> Android Mobile Developer at Havan Labs, currently learning and improving mobile development skills. <br> Graduated in Analysis and Systems Development from UNIVALI - Itajaí/SC. <br> </p>
+<section> <p> Mobile Developer at Havan Labs, currently learning and improving mobile development skills. <br> Graduated in Analysis and Systems Development from UNIVALI - Itajaí/SC. <br> </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anacrispee&layout=compact&theme=tokyonight)
 </section>
