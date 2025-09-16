@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Ana 
 
 ```kotlin
-val quote = "O navegador não vaga a esmo, mas se prende a tudo que é
- possível, para tornar preciso o seu caminho.(Amyr Klink)"
+val quote = "O navegador não vaga a esmo, mas se prende a tudo que é possível
+para tornar preciso o seu caminho. (Cem Dias Entre Céu e Mar - Amyr Klink)"
 ```
 
 🗽 **Mobile Developer at Havan Labs**  
