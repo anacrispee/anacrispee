@@ -1,5 +1,10 @@
 # 👋 Hi, I'm Ana 
 
+```kotlin
+val quote = "O navegador não vaga a esmo, mas se prende a tudo que é
+ possível, para tornar preciso o seu caminho.(Amyr Klink)"
+```
+
 🗽 **Mobile Developer at Havan Labs**  
 🎓 ADS Graduate from UNIVALI, Brazil  
 ✨ Learning and improving mobile development skills; crafting UIs with Compose and Kotlin!
