@@ -8,11 +8,3 @@ Learning and improving mobile development skills and crafting UIs with Compose a
   <a href="https://www.linkedin.com/in/anacrispee" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:anacrispee@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </footer>
-
-<br>
-<br>
-
-```kotlin
-val quote = "O navegador não vaga a esmo, mas se prende a tudo que é possível
-para tornar preciso o seu caminho. (Cem Dias Entre Céu e Mar - Amyr Klink)"
-```
