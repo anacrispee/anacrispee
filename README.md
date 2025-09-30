@@ -1,5 +1,5 @@
 **Android Developer at Havan Labs** • ADS Graduate from UNIVALI, Brazil. <br>
-Learning and improving mobile development skills and crafting UIs with Compose and Kotlin!
+Learning and improving mobile development skills and crafting UIs with Compose and Kotlin.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anacrispee&layout=compact&theme=tokyonight)
 </section>
