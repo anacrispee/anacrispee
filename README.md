@@ -1,4 +1,4 @@
-**Android Developer at Havan Labs** • ADS Graduate from UNIVALI, Brazil. <br>
+**Android Developer at Havan** • ADS Graduate from UNIVALI, Brazil. <br>
 Postgraduate student in **Mobile Engineering** at PUC Minas.
 
 <footer>
