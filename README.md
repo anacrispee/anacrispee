@@ -1,5 +1,5 @@
 **Android Developer at Havan Labs** • ADS Graduate from UNIVALI, Brazil. <br>
-Learning and improving mobile development skills and crafting UIs with Compose and Kotlin.
+Postgraduate student in **Mobile Engineering** at PUC Minas.
 
 <footer>
   <a href="https://www.linkedin.com/in/anacrispee" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
